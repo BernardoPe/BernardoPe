@@ -8,27 +8,31 @@
 <div align="center">
   <br>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,js,python,c&perline=7" />
+    <img src="https://skillicons.dev/icons?i=kotlin,java,js,ts,python,c&perline=7" />
     <br/>
     <b>Programming Languages</b>
+    <br/>
   </p> 
 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,elasticsearch&perline=5" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,postgres,elasticsearch&perline=10" />
     <br/>
     <b>Backend Development</b>
+    <br/>
   </p> 
 
   <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css&perline=6" />
     <br/>
     <b>Frontend Development</b>
+    <br/>
   </p> 
 
   <p align="center">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm&perline=5" />
     <br/>
     <b>Tools</b>
+    <br/>
 </div>
 
 ##
