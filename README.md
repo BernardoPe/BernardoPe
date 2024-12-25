@@ -15,21 +15,21 @@
   </p> 
 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,postgres,elasticsearch&perline=10" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,postgres,elasticsearch,nginx&perline=10" />
     <br/>
     <b>Backend Development</b>
     <br/>
   </p> 
 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,materialui,webpack&perline=6" />
     <br/>
     <b>Frontend Development</b>
     <br/>
   </p> 
 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm&perline=5" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,androidstudio&perline=6" />
     <br/>
     <b>Tools</b>
     <br/>
