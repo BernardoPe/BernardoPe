@@ -23,7 +23,7 @@ Currently:
 ## 🏆 Featured Projects
 
 - **[HtmlFlow](https://github.com/xmlet/HtmlFlow)** – Java/Kotlin DSL for building HTML, currently integrating with http4k
-- **[Instant Messaging App](https://github.com/BernardoPe/Instant-Messaging)** – Kotlin Android & React clients + Spring REST API with SSE for real-time updates
+- **[Instant Messaging App](https://github.com/BernardoPe/Instant-Messaging)** – Android & Web clients + Spring REST API with SSE for real-time updates
 - **[Musyk](https://github.com/BernardoPe/Musyk)** – A discord bot able to play music in voice channels
 - **[PSSR Benchmark](https://github.com/xmlet/comparing-non-blocking-progressive-ssr)** – Final BSc Project - Benchmarked reactive, coroutine, and virtual thread approaches to HTML rendering with template engines
   
