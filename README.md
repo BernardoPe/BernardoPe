@@ -9,7 +9,6 @@
 [🌐 Website](https://bernardope.github.io)
 
 Currently:  
-- 📺 Apprentice Developer @ Sky — building tooling for multi-device deeplink testing  
 - 🛠 Active maintainer of [HtmlFlow](https://github.com/xmlet/HtmlFlow) (Java/Kotlin DSL for HTML)
 ---
 <div align="center">
