@@ -13,8 +13,8 @@ Currently:
 ---
 <div align="center">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=bernardope&show_icons=true&theme=onedark&layout=compact&include_all_commits" alt="bernardope" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bernardope&langs_count=10&locale=en&layout=compact&theme=onedark" alt="bernardope" height="192px"/>
+    <img src="https://github-readme-stats-git-master-bernardopes-projects.vercel.app/api?username=bernardope&show_icons=true&theme=onedark&layout=compact&include_all_commits" alt="bernardope" />
+    <img src="https://github-readme-stats-git-master-bernardopes-projects.vercel.app/api/top-langs?username=bernardope&langs_count=10&locale=en&layout=compact&theme=onedark" alt="bernardope" height="192px"/>
   </p>
 </div>
 
