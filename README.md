@@ -21,7 +21,7 @@ Currently:
 
 ---
 
-## 🏆 Featured Projects
+## Notable Projects
 
 - **[HtmlFlow](https://github.com/xmlet/HtmlFlow)** – Java/Kotlin DSL for building HTML, currently integrating with http4k
 - **[Instant Messaging App](https://github.com/BernardoPe/Instant-Messaging)** – Android & Web clients + Spring REST API with SSE for real-time updates
@@ -30,7 +30,7 @@ Currently:
   
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Languages**  
 <img src="https://skillicons.dev/icons?i=kotlin,java,js,ts,python,c&perline=6" />
