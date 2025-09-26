@@ -1,33 +1,52 @@
-# 👋 Hi, I'm Bernardo Pereira
+<h1>👋 Hi, I'm Bernardo Pereira</h1>
 
-🎓 MSc Computer Science & Engineering student at Instituto Superior Técnico (starting Sep 2025)
+🎓 MSc Computer Science & Engineering student at <b>Instituto Superior Técnico</b> (starting Sep 2025) <br/>
+💡 Passionate about building impactful software <br/>
+🚀  Always looking for ways to blend clean and efficient code with creative problem-solving 
 
-💡 Passionate about building impactful software 
+<a href="https://bernardope.github.io">
+  <img src="https://img.shields.io/badge/🌐_Website-4285F4?style=for-the-badge" alt="Website"/>
+</a>
+<br/>
+<a href="https://your-cv-link.com">
+  <img src="https://img.shields.io/badge/CV-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV"/>
+</a>
 
-🚀 Always looking for ways to blend clean and efficient code with creative problem-solving 
-
-[🌐 Website](https://bernardope.github.io)
-
-Currently:  
-- 🛠 Active maintainer of [HtmlFlow](https://github.com/xmlet/HtmlFlow) (Java/Kotlin DSL for HTML)
+### 🔭 Currently
+- 🛠 Active maintainer of [**HtmlFlow**](https://github.com/xmlet/HtmlFlow) (Java/Kotlin DSL for HTML)
+  
 ---
-<div align="center">
-  <p align="center">
-    <img src="https://github-readme-stats-git-master-bernardopes-projects.vercel.app/api?username=BernardoPe&show_icons=true&theme=onedark&layout=compact&include_all_commits=true" alt="bernardope" />
-    <img src="https://github-readme-stats-git-master-bernardopes-projects.vercel.app/api/top-langs?username=BernardoPe&langs_count=10&locale=en&layout=compact&theme=onedark" alt="bernardope" height="192px"/>
-  </p>
-</div>
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats-git-master-bernardopes-projects.vercel.app/api?username=BernardoPe&show_icons=true&theme=onedark&layout=compact&include_all_commits=true" alt="bernardope stats" height="180px"/>
+  <img src="https://github-readme-stats-git-master-bernardopes-projects.vercel.app/api/top-langs?username=BernardoPe&langs_count=10&locale=en&layout=compact&theme=onedark" alt="bernardope languages" height="180px"/>
+</p>
 
-## Notable Projects
+---
 
-- **[HtmlFlow](https://github.com/xmlet/HtmlFlow)** – Java/Kotlin DSL for building HTML, currently integrating with http4k
-- **[Instant Messaging App](https://github.com/BernardoPe/Instant-Messaging)** – Android & Web clients + Spring REST API with SSE for real-time updates
-- **[Musyk](https://github.com/BernardoPe/Musyk)** – A discord bot able to play music in voice channels
-- **[PSSR Benchmark](https://github.com/xmlet/comparing-non-blocking-progressive-ssr)** – Final BSc Project - Benchmarked reactive, coroutine, and virtual thread approaches to HTML rendering with template engines
+### 🚀 Notable Projects
+<br/>
+<p align="center">
+  <a href="https://github.com/xmlet/HtmlFlow">
+    <img hspace="10" src="https://github-readme-stats.vercel.app/api/pin/?username=xmlet&repo=HtmlFlow&theme=dark&description_lines_count=3" />
+  </a>
+  <a href="https://github.com/BernardoPe/Instant-Messaging">
+    <img hspace="10" src="https://github-readme-stats.vercel.app/api/pin/?username=BernardoPe&repo=Instant-Messaging&theme=dark&description_lines_count=3" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/BernardoPe/Musyk">
+    <img hspace="10" src="https://github-readme-stats.vercel.app/api/pin/?username=BernardoPe&repo=Musyk&theme=dark&description_lines_count=3" />
+  </a>
+  <a href="https://github.com/xmlet/comparing-non-blocking-progressive-ssr">
+    <img  hspace="10" src="https://github-readme-stats.vercel.app/api/pin/?username=xmlet&repo=comparing-non-blocking-progressive-ssr&theme=dark&description_lines_count=3" />
+  </a>
+</p>
 
+---
 
-## Tech Stack
+### 🛠 Tech Stack
 
 **Languages**  
 <img src="https://skillicons.dev/icons?i=kotlin,java,js,ts,python,c&perline=6" />
@@ -41,7 +60,12 @@ Currently:
 **Tools**  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,androidstudio&perline=6" />
 
-## 🌐 Let's Connect
+---
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/bernardope)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/BernardoPe)
+### 🌐 Connect
+<a href="https://linkedin.com/in/bernardope">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/BernardoPe">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
