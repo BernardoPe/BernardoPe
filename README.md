@@ -24,7 +24,6 @@
 ---
 
 ### 🚀 Notable Projects
-<br/>
 <p align="center">
   <a href="https://github.com/xmlet/HtmlFlow">
     <img hspace="10" src="https://github-readme-stats.vercel.app/api/pin/?username=xmlet&repo=HtmlFlow&theme=dark&description_lines_count=3" />
