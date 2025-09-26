@@ -13,7 +13,6 @@
 ### 🔭 Currently
 - 🛠 Active maintainer of [**HtmlFlow**](https://github.com/xmlet/HtmlFlow) (Java/Kotlin DSL for HTML)
   
----
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -21,27 +20,24 @@
   <img src="https://github-readme-stats-git-master-bernardopes-projects.vercel.app/api/top-langs?username=BernardoPe&langs_count=10&locale=en&layout=compact&theme=onedark" alt="bernardope languages" height="180px"/>
 </p>
 
----
 
 ### 🚀 Notable Projects
 <p align="center">
   <a href="https://github.com/xmlet/HtmlFlow">
-    <img hspace="10" src="https://github-readme-stats.vercel.app/api/pin/?username=xmlet&repo=HtmlFlow&theme=dark&description_lines_count=3" />
+    <img hspace="10" src="https://github-readme-stats.vercel.app/api/pin/?username=xmlet&repo=HtmlFlow&theme=dark&description_lines_count=2" />
   </a>
   <a href="https://github.com/BernardoPe/Instant-Messaging">
-    <img hspace="10" src="https://github-readme-stats.vercel.app/api/pin/?username=BernardoPe&repo=Instant-Messaging&theme=dark&description_lines_count=3" />
+    <img hspace="10" src="https://github-readme-stats.vercel.app/api/pin/?username=BernardoPe&repo=Instant-Messaging&theme=dark&description_lines_count=2" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/BernardoPe/Musyk">
-    <img hspace="10" src="https://github-readme-stats.vercel.app/api/pin/?username=BernardoPe&repo=Musyk&theme=dark&description_lines_count=3" />
+    <img hspace="10" src="https://github-readme-stats.vercel.app/api/pin/?username=BernardoPe&repo=Musyk&theme=dark&description_lines_count=2" />
   </a>
   <a href="https://github.com/xmlet/comparing-non-blocking-progressive-ssr">
-    <img  hspace="10" src="https://github-readme-stats.vercel.app/api/pin/?username=xmlet&repo=comparing-non-blocking-progressive-ssr&theme=dark&description_lines_count=3" />
+    <img  hspace="10" src="https://github-readme-stats.vercel.app/api/pin/?username=xmlet&repo=comparing-non-blocking-progressive-ssr&theme=dark&description_lines_count=2" />
   </a>
 </p>
-
----
 
 ### 🛠 Tech Stack
 
