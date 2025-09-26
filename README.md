@@ -10,10 +10,6 @@
   <img src="https://img.shields.io/badge/🌐_Website-4285F4?style=for-the-badge" alt="Website"/>
 </a>
 
-<a href="https://your-cv-link.com">
-  <img src="https://img.shields.io/badge/CV-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV"/>
-</a>
-
 ### 🔭 Currently
 - 🛠 Active maintainer of [**HtmlFlow**](https://github.com/xmlet/HtmlFlow) (Java/Kotlin DSL for HTML)
   
