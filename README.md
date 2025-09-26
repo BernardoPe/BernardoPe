@@ -1,13 +1,15 @@
 <h1>👋 Hi, I'm Bernardo Pereira</h1>
 
 🎓 MSc Computer Science & Engineering student at <b>Instituto Superior Técnico</b> (starting Sep 2025) <br/>
+
 💡 Passionate about building impactful software <br/>
+
 🚀  Always looking for ways to blend clean and efficient code with creative problem-solving 
 
 <a href="https://bernardope.github.io">
   <img src="https://img.shields.io/badge/🌐_Website-4285F4?style=for-the-badge" alt="Website"/>
 </a>
-<br/>
+
 <a href="https://your-cv-link.com">
   <img src="https://img.shields.io/badge/CV-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV"/>
 </a>
