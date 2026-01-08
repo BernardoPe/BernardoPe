@@ -46,7 +46,7 @@
 ### 🛠 Tech Stack
 
 **Languages**  
-<img src="https://skillicons.dev/icons?i=kotlin,java,js,ts,python,c&perline=6" />
+<img src="https://skillicons.dev/icons?i=kotlin,java,js,ts,go&perline=6" />
 
 **Backend**  
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express,nginx,postgres,mongodb,elasticsearch&perline=8" />
