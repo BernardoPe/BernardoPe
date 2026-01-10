@@ -7,7 +7,7 @@ I'm also currently one of the maintainers of [HtmlFlow](https://github.com/xmlet
   <img src="https://img.shields.io/badge/🌐_Website-4285F4?style=for-the-badge" alt="Website"/>
 </a>
 
-### 🚀 Projects
+---
 
 <p align="center">
   <a href="https://github.com/xmlet/HtmlFlow">
@@ -26,8 +26,6 @@ I'm also currently one of the maintainers of [HtmlFlow](https://github.com/xmlet
   </a>
 </p>
 
-### 🛠 Tech 
-
 **Languages**  
 <img src="https://skillicons.dev/icons?i=kotlin,java,js,ts,go&perline=6" />
 
@@ -40,14 +38,14 @@ I'm also currently one of the maintainers of [HtmlFlow](https://github.com/xmlet
 **Tools**  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,androidstudio&perline=6" />
 
-### 📊 GitHub activity
+---
 
 <p align="center">
   <img src="https://github-readme-stats-livid-xi-11.vercel.app/api?username=BernardoPe&show_icons=true&theme=onedark&layout=compact&include_all_commits=true" height="180px"/>
   <img src="https://github-readme-stats-livid-xi-11.vercel.app/api/top-langs?username=BernardoPe&langs_count=10&layout=compact&theme=onedark" height="180px"/>
 </p>
 
-## 🌐 Connect
+--- 
 
 <a href="https://linkedin.com/in/bernardope">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
