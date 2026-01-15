@@ -3,10 +3,6 @@ I’m a **Computer Science & Engineering** student at Instituto Superior Técnic
 
 I'm also currently one of the maintainers of [HtmlFlow](https://github.com/xmlet/HtmlFlow) — a Java/Kotlin DSL for type-safe HTML generation
 
-<a href="https://bernardope.github.io">
-  <img src="https://img.shields.io/badge/🌐_Website-4285F4?style=for-the-badge" alt="Website"/>
-</a>
-
 ---
 
 <p align="center">
